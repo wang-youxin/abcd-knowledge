@@ -46,7 +46,7 @@ description: |
 1. 追加到 `raw/完整对话/YYYY-MM-DD.md`：
    ```
    **HH:MM 用户** — {原文}
-   **HH:MM AI** — {摘要}
+   **HH:MM AI** — {AI 回复原文，逐字，不缩写不概括}
    ```
 2. 追加到 `raw/用户消息/YYYY-MM-DD.md`：
    ```
